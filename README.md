@@ -32,8 +32,11 @@ The purpose of this is to evaluate the risk levels for funding credit out. We wa
 
 ## Summary of the results
 
+Overall the results show there is low risk with the credit dataset.
 
 ## Recommendation & Justification
+
+The recommendation would be to extend credit as there is low risk of a loss based on less than 1% at high risk.
 
 ![image](https://user-images.githubusercontent.com/101777677/180111777-ff7310e7-63b5-427b-aba7-27c2d7576114.png)
 
