@@ -10,6 +10,7 @@ The purpose of this is to evaluate the risk levels for funding credit out. We wa
 
 ## There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
 
+- Overall less than a 1% risk
 ![image](https://user-images.githubusercontent.com/101777677/180111652-71130464-e8eb-4cb0-bf7c-db9ea5ef229b.png)
 
 ![image](https://user-images.githubusercontent.com/101777677/180111726-c67027b3-53d3-4e5f-b589-7ba8efd93efb.png)
